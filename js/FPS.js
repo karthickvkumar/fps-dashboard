@@ -1,6 +1,6 @@
 /*
  *
- *   INSPINIA - Responsive Admin Theme
+ *   FPS - Admin Dashboard
  *   version 2.8
  *
  */
